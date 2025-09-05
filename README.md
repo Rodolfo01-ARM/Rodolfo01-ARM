@@ -54,7 +54,7 @@ Neste programa, aprofundo meus conhecimentos com:
 
 ## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/rodolfo-evangelista-sepulveda)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]( www.linkedin.com/in/rodolfo-evangelista-sepulveda )
 
-##
+## 
 💡 Estou em constante aprendizado. Cada ferramenta representa um passo rumo à excelência em Qualidade de Software.
